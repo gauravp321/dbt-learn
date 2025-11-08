@@ -1,0 +1,1 @@
+{% set var_name = "Gaurav Poojary"%} {{- var_name -}}
