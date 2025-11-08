@@ -1,0 +1,11 @@
+dbt_gp:
+  outputs:
+    dev:
+      catalog: dbt_tut_dev
+      host: dbc-7b023fdf-61a6.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/9ab31a53bd8b23c4
+      schema: default
+      threads: 1
+      token: dapi253004849a3b3213e03c23896fd537aa
+      type: databricks
+  target: dev
