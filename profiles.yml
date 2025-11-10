@@ -6,7 +6,7 @@ dbt_gp:
       http_path: /sql/1.0/warehouses/9ab31a53bd8b23c4
       schema: default
       threads: 1
-      token: dapi253004849a3b3213e03c23896fd537aa
+      token: xyz
       type: databricks
     prod:
       catalog: dbt_tut_prod
@@ -14,7 +14,7 @@ dbt_gp:
       http_path: /sql/1.0/warehouses/9ab31a53bd8b23c4
       schema: default
       threads: 1
-      token: dapi253004849a3b3213e03c23896fd537aa
+      token: xyz
       type: databricks
   target: dev
     
